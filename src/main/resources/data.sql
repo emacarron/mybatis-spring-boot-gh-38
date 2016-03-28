@@ -1,0 +1,1 @@
+INSERT INTO t_message (code,message) VALUES('000001','Hello!!');
